@@ -1,0 +1,141 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* Application Installer styles */
+
+.installerBody { background:url(../images/bgTex.jpg) repeat; font-family:"Courier New", Courier, monospace; }
+.wrapper-installer { width:1000px; margin:0 auto; }
+.xsp-installer { background:url(../images/sprite.png) no-repeat -432px -55px; height: 56px; width: 124px; position:absolute; top:0;
+                 left:0; }
+.logo-installer { background:url(../images/sprite.png) no-repeat 0px 0px; height: 275px; width: 408px; margin:70px auto 0; }
+.shadow-installer { background:url(../images/sprite.png) no-repeat -388px 0px; height: 44px; margin: -24px auto 0; width: 530px; }
+.text-installer { color:#526068; width:100%; text-align:center; font-size:40px; margin:0 auto; }
+#installNotes { width:400px; height:225px; margin:10px auto; text-align:left; font-family:"Times New Roman", Times, serif; 
+                color:#536068; }
+.registration_install { width:450px; margin:10px auto; background-color:#526068;
+	                    -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px;
+	                    -moz-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+                        -webkit-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+                        -khtml-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+	                    box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px; }
+#registrationForm_install_height { height:320px; }
+#regFormFooter { width:430px; height:70px; margin:0 auto; background-color:#efefef;
+	             -moz-border-radius:0 0 5px 5px; -webkit-border-radius:0 0 5px 5px; border-radius:0 0 5px 5px; }
+#message { height:40px; width:500px; font-size:15px; color:#1785cd; margin:10px auto 10px auto; text-align:center; }
+.finishDiv { width:110px; height:40px; margin:15px auto; }
+#installButton { width:100px; height:30px; background-color:#55c4c4;
+	             -moz-border-radius:25px; -webkit-border-radius:25px; border-radius:25px;
+	             border:1px solid #526068; float:right; }
+#installButton:hover { background-color:#5ed7d7; }
+#installButton:active { margin:1px -1px 0 0; }
+.registrationForm_install { width:430px; margin:-8px auto; background:url(../images/grains.jpg) repeat; }
+#registration_install_height { height:340px; }
+#RegTextField { width:285px; height:28px; margin:0 0px 5px 0px;
+	            -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+	            border:1px solid #d3dddc; padding-left:10px; background-image:url(../images/bgTextField.jpg); }
+.buttonReg { height:35px; float:right;
+	         -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+	         border:1px solid #bebebe; background-color:#f7f7f7; margin:18px 25px 0 0;
+	         font-family:"Arial Black", Gadget, sans-serif; font-weight:bold; color:#434343;
+	         -moz-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+             -webkit-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+             -khtml-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+	         box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px; }
+.buttonReg:hover { background-color:#dbdbdb; }
+.buttonReg:active { background-color:#f7f7f7; margin:19px 24px 0 0; }
+#buttonRegWidth { width:100px; }
+#tableReg{ margin-top:0px; }
+#tdRegLabel{ width:130px; height:35px; font-weight:bold; font-size:13px; color:#000000; font-family:"Times New Roman", Times, serif;
+	         padding-left:10px; }
+#tdRegTextField{ width:320px; height:35px; }
+
+/* HTML body style applicable to all pages */
+.bgMain { background:url(../images/bg.gif) #d4d3d3 top repeat-x; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; }
+
+/* Login and Lost password page styles */
+.form1Header { font-size:24px; font-style:italic; color:#ffffff; text-align:center;
+	           width:auto; height:60px; margin:50px auto 15px; }
+.form1Footer { width:210px; height:25px; padding-left:20px; padding-right:20px; margin:0 auto; padding-top:5px;
+               border:1px solid #777; border-right:1px solid #777; border-bottom:1px solid #777; border-top:none; 
+               -moz-border-radius:0 0 15px 15px; -webkit-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px; 
+			   background:#ffffff; text-align:center; }
+.form1Footer a { font-size:12px; color:#777; text-decoration:none; }
+.form1Footer a:hover { text-decoration:underline; color:#555; }
+.form1Message { width:auto; height:20px; margin:25px auto 0px auto; font-size:12px;text-align:center; color:#900; }
+.form1MessageImage { border:0px; margin:-2px 4px 0px -6px; vertical-align:middle; }
+.logoutPromt { width:auto; height:auto; font-size:12px; text-align:center; font-weight:bold;
+               color:#ffffff; margin:30px auto; }
+#form2SuccessMessage { color:#000000; }
+
+/* Header,Footer and Main Menu Styles */
+.dashboardHeader { width:1000px; height:50px; margin:0 auto; }
+.dashboardHeaderTitle { width:500px;height:30px;font-size:24px; font-style:italic;
+                        color:#ffffff;text-align:left; line-height:69px;float:left; }
+.adminDetails { width:300px;height:35px;margin-top:3px;float:right;background:#000000;padding:5px 0px 5px 0px;
+                font-size:12px;color:#ffffff;text-align:center;
+				-moz-border-radius:0px 0px 5px 5px; -webkit-border-radius:0px 0px 5px 5px; border-radius:0px 0px 5px 5px; }
+.adminDetails a { text-decoration:none; color:#ffffff; }
+.adminDetails a:hover { text-decoration:underline; }
+.footer { width:960px;height:20px;padding:5px 20px 5px 20px;margin:0 auto;text-align:center; 
+          font-size:12px;color:#666; }
+.footer a { text-decoration:none; color:#5D9DC1; }
+.footer a:hover { text-decoration:underline; }
+.mainIndex { width:1000px;min-height:700px;background:#ffffff;margin:20px auto 0px auto;border:1px solid #000000;
+             -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px; }
+.mainIndexSubjectsHeight { height:800px !important; }
+.menuPanel { width:1000px;height:120px;background:#618aa8;
+             -moz-border-radius:15px 15px 0px 0px; -webkit-border-radius:15px 15px 0px 0px; border-radius:15px 15px 0px 0px; }
+.menuPanelBorder { border-bottom:34px solid #74a2c6; }
+.mainMenu { width:950px; height:100px; margin:0px auto; background:url(../images/mainMenu_gradient.png);border:1px solid #2a4962;
+            -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px; display:block;
+			position:relative;top:9px; }
+.mainMenu a { width:100px;height:100px;border-right:1px solid #2a4962;border-left:1px solid #2a4962;margin-left:15px; float:left; }
+.mainMenu a:hover { background:#74a2c6; }
+.subMenuPanel { width:1000px;height:32px;margin:0px auto;background:#74a2c6;
+                border-top:1px solid #2a4962;border-bottom:1px solid #2a4962; }
+.subMenu { width:922px;height:31px;margin:0px auto; }
+.subMenu a { background:#618aa8;width:150px;height:24px;margin-right:16px;display:block;text-decoration:none;text-align:center;
+             color:#ffffff;font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;padding-top:7px;float:left;
+			 border-right:1px solid #2a4962;border-left:1px solid #2a4962; }
+.subMenu a:hover { background:#4B81AD;text-decoration:none; }
+
+
+/* Page Title Style */
+.pageName { width:970px;height:29px;margin:0px auto;border-bottom:1px solid #d4d3d3;font-size:24px;font-weight:bold;color:#1B486A;
+            font-variant:small-caps;padding:17px; }
+.pageName img { vertical-align:middle;margin-right:20px; }
+
+/* Dashboard Styles */
+.ulList { margin:0px 10px 0px 25px; }
+.ulSpan { color:#1B486A;font-weight:bold; }
+.overflowBar { height:40px;width:930px; margin:0px auto;text-align:center; }
+.overflow { height:25px;/*width:96px;*/border:1px solid #afaeae;-moz-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;            -webkit-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;-khtml-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+            text-align:center;text-decoration:none;font-variant:small-caps;font-size:14px;font-weight:bold;color:#555;
+			padding-top:5px;-moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; }
+.overflow:hover { text-decoration:underline; }
+.overflowNext { float:right;width:100px; }
+.overflowPadding { padding-left:10px; padding-right:10px; }
+.overflowMargin { cursor:pointer; float:right; }
+.overflowNext:active { margin:1px -1px 0px 0px; }
+.overflowPrev { float:left;width:100px; }
+.overflowPrev:active { margin:1px 0px 0px 1px; }
+
+/* Contactlist Style */
+.discardMail { width:auto;height:auto;margin:20px 0px 0px 115px; }
+.mailerError { width:auto; height:20px; margin:5px auto 5px auto; font-size:12px;text-align:center; color:#900; }
+.mailViewerBody { padding:5px;border:1px solid #afaeae; }
+
+/* Sent mails style */
+.emptySentMails { text-align:center; margin-bottom:15px; }
+.adminMessage { width:auto; height:auto; margin:5px auto 0px auto; font-size:12px;text-align:center; color:#900; }
+.addAdminMessage { width:auto; height:auto; margin:5px auto 0px 50px; font-size:12px;text-align:left; color:#900; }
+
+.addSubject { width:auto;height:auto;margin:15px auto 15px 50px; }
+.addSubject h1 { font-size:18px;font-weight:bold;color:#1B486A;margin-left:15px; }
+

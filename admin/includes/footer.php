@@ -1,0 +1,1 @@
+<div class="footer">web application powered by <a href="http://www.thexsp.com">XSP</a></div>

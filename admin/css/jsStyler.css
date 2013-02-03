@@ -1,0 +1,41 @@
+/* Spry Collapsible Panel Styles of Dashboard  */
+.CollapsiblePanel { border:1px solid #afaeae;margin:15px auto;
+	                -moz-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;-webkit-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+                    -khtml-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+	                -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px; }
+.CollapsiblePanel1Width { width:950px; }
+.CollapsiblePanel2Width { width:950px; }
+.CollapsiblePanelTab { height:17px;border-bottom:1px solid #afaeae;font-size:12px;font-weight:bold;
+	                   cursor: pointer;-moz-user-select: none;-khtml-user-select: none;-moz-border-radius:10px 10px 0px 0px;                       -webkit-border-radius:10px 10px 0px 0px; border-radius:10px 10px 0px 0px; color:#333;
+					   padding-left:10px;padding-top:5px;padding-bottom:5px; }
+.CollapsiblePanelTab img { vertical-align:middle; }
+.CollapsiblePanelContent { margin:0px;font-size:12px;text-align:justify;line-height:19px;height:auto; }
+.CollapsiblePanelTab a { color:black;text-decoration: none; }
+.CollapsiblePanelOpen .CollapsiblePanelTab 
+{ background:url(../images/arrow-up.png) no-repeat center right #d4d3d3; }
+.CollapsiblePanelClosed .CollapsiblePanelTab 
+{ background:url(../images/arrow-down.png) no-repeat center right #d4d3d3; }
+.CollapsiblePanelTabHover,  .CollapsiblePanelOpen .CollapsiblePanelTabHover 
+{ background:url(../images/arrow-up.png) no-repeat center right #d4d3d3; }
+
+/* Spry tabbed panel styles of cantacted list */
+.tabbedPanelBar { width:950px;height:27px;background:#D4D3D3;margin:-3px auto;position:relative;top:18px;z-index:0;
+	              -moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0;
+				  border:1px solid #AFAEAE; }
+.TabbedPanels { margin: 5px auto;padding: 0px;clear: none;width: 950px; }
+.TabbedPanelsTabGroup { margin-left:10px;padding: 0px;}
+.TabbedPanelsTab { position:relative;top:1px;width:100px;height:19px;float: left;text-align:center;padding-top:3px;
+	               margin: -7px 10px 0px 0px;font-size:12px;font-weight:bold;background:#AFAEAE;list-style: none;
+	               -moz-user-select:none;-khtml-user-select:none;cursor:pointer;color:#333;
+	               -moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0; }
+.TabbedPanelsTabHover { background:#999; }
+.TabbedPanelsTabSelected { background:url(../images/bgTex.jpg) repeat; }
+.TabbedPanelsTab a { color: black;text-decoration: none; }
+.TabbedPanelsContentGroup { clear:both;height:auto;border:1px solid #AFAEAE;background:url(../images/bgTex.jpg) repeat;
+	                        -moz-border-radius:0 0 10px 10px;-webkit-border-radius:0 0 10px 10px;border-radius:0 0 10px 10px;
+	                        -moz-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;-webkit-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+                            -khtml-box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;box-shadow:rgba(25,25,25,0.7) 0 4px 10px -1px;
+							margin-bottom:15px; }
+.TabbedPanelsContentGroupOverflow { overflow-y:scroll;overflow-x:hidden; }
+.TabbedPanelsContent { padding: 4px; }
+.TabbedPanelsContentVisible { }

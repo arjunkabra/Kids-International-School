@@ -1,0 +1,46 @@
+/* Admin Dashboard Registered Admins Table Styles */
+.adminTableDashboard { border:1px solid #afaeae; margin:5px auto; }
+.tdadminTableDashboard { border:1px solid #afaeae;font-size:14px;height:20px;text-align:center;padding-top:5px;padding-bottom:5px; }
+.thadminTableDashboardFont { font-weight:bold;color:#555;background:#afaeae; }
+.thadminTableDashboardID { width:80px; }
+.thadminTableDashboardName { width:180px; }
+.thadminTableDashboardUsername { width:180px; }
+.thadminTableDashboardeMail { width:280px; }
+.thadminTableDashboardDate { width:90px; }
+.thadminTableDashboardType { width:90px; }
+
+/* Conatcted list, trash and sent mails table styles */
+.thClStyle { font-weight:bold;background:#afaeae;font-size:14px;text-align:center;color:#555;border:1px solid #afaeae; }
+.thClDate { width:80px; }
+.thClName { width:260px; }
+.thClMessage { width:300px; }
+.thClStatus { width:170px; }
+.thClOperation { width:65px; }
+.tdClStyle { font-size:14px; border:1px solid #afaeae;padding-right:5px;padding-left:5px; }
+.thSmName { width:200px; }
+.thSmSubject { width:300px; }
+
+.tdMailer { width:100px; padding:15px; }
+
+.tableMailViewer { margin:0px auto 15px auto;width:900px }
+.thMailViewer {  font-weight:bold;font-size:14px;text-align:left;color:#555; padding:5px; }
+.tdMailViewerWidth { width:800px; }
+.TableOverflow { padding:5px; }
+
+.tableAddAdmin { width:auto;height:auto;margin:15px 0px 15px 50px; }
+.tableAddSubject { width:auto;height:auto;margin:15px 0px 15px 15px; }
+.tableViewSubjects { width:450px;height:auto;margin:-250px auto 15px 500px;border:1px solid #afaeae; }
+.thTableSubjectsName { width:240px; }
+.thTableSubjectsMaxMarks { width:100px; }
+.thTableSubjectsOperation { width:160px}
+
+.tableAddStudents { margin:0px auto 15px auto;border:1px solid #afaeae; }
+.thAddStudentsReg { width:150px; }
+.thAddStudentsName { width:300px; }
+.thAddStudentsClass { width:100px; }
+.thAddStudentsBtt1 { width:160px; }
+.thAddStudentsBtt2 { width:70px; }
+.thAddMarksSubject { width:200px; }
+.thAddMarksMaxMarks { width:150px; }
+.thAddMarksAddMarks {  }
+
