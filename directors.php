@@ -40,52 +40,32 @@
 
 <tr>
 <th id="thwidthc1">Name of the Directors</th>
-<th>Occupation</th>
-</tr>
-
-<tr>
-<td>Sri. Dr. Padmanabha.D.R</td>
-<td>Doctor</td>
+<th>Position</th>
 </tr>
 
 <tr>
 <td>Sri. Ramalinge Gowda N.G. </td>
-<td>Business</td>
-</tr>
-
-<tr>
-<td>Sri. Pradeep.H.G</td>
-<td>Business</td>
+<td>Chairman</td>
 </tr>
 
 <tr>
 <td>Sri. Satish kumar.D<br /><hr />M.Sc., M.A., M.Ed. ,M.T.C., M.Phil.</td>
-<td>Tutor</td>
-</tr>
-
-<tr>
-<td>Sri. Satish.T.V</td>
-<td>Civil</td>
-</tr>
-
-<tr>
-<td>Sri. Shivaraju.J </td>
-<td>Lecturer</td>
+<td>Secretary</td>
 </tr>
 
 <tr>
 <td>Sri. Altaf Ulla Sharrif</td>
-<td>Business</td>
+<td>Treasurer</td>
 </tr>
 
 <tr>
 <td>Smt. Rekha.S.U</td>
-<td>Business</td>
+<td>Director</td>
 </tr>
 
 <tr>
 <td>Jayalakshmi Gowdaiah</td>
-<td>Business</td>
+<td>Director</td>
 </tr>
 
 </table>
