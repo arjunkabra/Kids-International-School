@@ -9,7 +9,6 @@
   <li><a href="ourmission">Our Mission</a></li>
   <li><a href="directors">Board of Directors</a></li>
   <li><a href="chairmanmessage">Chairman's Message</a></li>
-  <li><a href="presidentsmessage">President's Message</a></li>
   <li><a href="staff">Staff</a></li>
   </ul>
 </li>
