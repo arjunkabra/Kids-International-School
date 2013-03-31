@@ -121,6 +121,13 @@
 </a>
 </div>
 
+<div class="galleryThumbnail">
+<a style="text-decoration:none; color:#192021;" class="gallery" href="images/gallery-12.jpg" title="Extra Activities">
+<img class="thumbnailImage" src="images/thumb-12.jpg" title="Extra Activities" />
+<h6>Extra Activities</h6>
+</a>
+</div>
+
 </div>
 
 <div class="galleryHolder">
@@ -136,13 +143,6 @@
 <a style="text-decoration:none; color:#192021;" class="gallery" href="images/gallery-11.jpg" title="Computer Lab">
 <img class="thumbnailImage" src="images/thumb-11.jpg" title="Computer Lab" />
 <h6>Computer Lab</h6>
-</a>
-</div>
-
-<div class="galleryThumbnail">
-<a style="text-decoration:none; color:#192021;" class="gallery" href="images/gallery-12.jpg" title="Extra Activities">
-<img class="thumbnailImage" src="images/thumb-12.jpg" title="Extra Activities" />
-<h6>Extra Activities</h6>
 </a>
 </div>
 
