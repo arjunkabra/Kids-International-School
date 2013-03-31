@@ -43,7 +43,7 @@
 <p>&nbsp;</p>
 <p>Kids International School takes pride in providing a caring atmosphere to all its students just for the young minds to be nurtured. It aims to develop scholarly students with great self-discipline, intense perseverance and a zeal to excel which are the qualities required to meet the challenges of the modern society. The school seeks your utmost co-operation and support at all times to achieve the high standards set.</p>
 <p>&nbsp;</p>
-<h6>Dr.Padmanabha.D.R<br /><span class="qlfy">M.B.B.S., M.D<br />Chairman<br />Kids International School, Bellavi</span></h6>
+<h6>Sri. Ramalinge Gowda N.G.<br /><span class="qlfy">Chairman<br />Kids International School, Bellavi</span></h6>
 
 </div>
 <div class="contentindexRight">
