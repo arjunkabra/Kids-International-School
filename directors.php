@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-<td>Sri. Satish kumar.D<br /><hr />M.Sc., M.A., M.Ed. ,M.T.C., M.Phil.</td>
+<td>Sri. Satish kumar.D</td>
 <td>Secretary</td>
 </tr>
 
@@ -64,7 +64,7 @@
 </tr>
 
 <tr>
-<td>Jayalakshmi Gowdaiah</td>
+<td>Smt. Jayalakshmi Gowdaiah</td>
 <td>Director</td>
 </tr>
 
