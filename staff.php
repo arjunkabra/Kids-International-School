@@ -133,6 +133,66 @@
 <td>M.Sc</td>
 </tr>
 
+<tr>
+<td>Radhamani</td>
+<td>B.A, B.Ed</td>
+</tr>
+
+<tr>
+<td>Yashoda</td>
+<td>B.A, D.Ed</td>
+</tr>
+
+<tr>
+<td>Pavitra</td>
+<td>B.A, B.Ed</td>
+</tr>
+
+<tr>
+<td>Lalitha</td>
+<td>D.Ed</td>
+</tr>
+
+<tr>
+<td>Virupakshaiah</td>
+<td>B.Sc, B.Ed</td>
+</tr>
+
+<tr>
+<td>Kavya. B.M</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Pushpa. K.N</td>
+<td>M.T.T</td>
+</tr>
+
+<tr>
+<td>Preetiprakash</td>
+<td>M.Sc</td>
+</tr>
+
+<tr>
+<td>Swamy</td>
+<td>M.A, B.Ed</td>
+</tr>
+
+<tr>
+<td>Nizamuddin</td>
+<td>B.A, B.Ed</td>
+</tr>
+
+<tr>
+<td>Vinutha</td>
+<td>M.C.A</td>
+</tr>
+
+<tr>
+<td>Jayashree</td>
+<td>M.Sc</td>
+</tr>
+
 </table>
 </div>
 <div class="contentindexRight">
