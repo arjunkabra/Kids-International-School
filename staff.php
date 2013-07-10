@@ -54,11 +54,6 @@
 </tr>
 
 <tr>
-<td>Swathi</td>
-<td>M.A.</td>
-</tr>
-
-<tr>
 <td>Swetha</td>
 <td>B.Sc.,B.Ed.</td>
 </tr>
@@ -71,11 +66,6 @@
 <tr>
 <td>Jyothi. S</td>
 <td>B.Sc.,B.Ed</td>
-</tr>
-
-<tr>
-<td>Srivalli. S</td>
-<td>B.Sc.</td>
 </tr>
 
 <tr>
@@ -119,11 +109,6 @@
 </tr>
 
 <tr>
-<td>Usha</td>
-<td>B.Sc., Montessori Training</td>
-</tr>
-
-<tr>
 <td>Shivaraju</td>
 <td>Drawing Teacher</td>
 </tr>
@@ -150,7 +135,7 @@
 
 <tr>
 <td>Lalitha</td>
-<td>D.Ed</td>
+<td>P.U.C, D.Ed</td>
 </tr>
 
 <tr>
@@ -160,7 +145,7 @@
 
 <tr>
 <td>Kavya. B.M</td>
-<td></td>
+<td>B.sc, B.Ed</td>
 </tr>
 
 <tr>
