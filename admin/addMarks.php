@@ -156,12 +156,11 @@ while($row_subjects = mysql_fetch_array($subjects)) {
     echo "</tr>";
 	echo "<tr>";
 	echo "<td class=\"tdadminTableDashboard thadminTableDashboardFont thAddMarksSubject\">";
-	if($total>810) { echo $ranking = "Grade: A+"; }
-	else if($total>=675 && $total<809) { echo $ranking = "Grade: A"; }
-	else if($total>=540 && $total<674) { echo $ranking = "Grade: B+"; }
-	else if($total>=450 && $total<539) { echo $ranking = "Grade: B"; }
-	else if($total>=270 && $total<449) { echo $ranking = "Grade: C+"; }
-	else if($total<=269) { echo $ranking = "C"; }
+	if($total>630) { echo $ranking = "Grade: A+"; }
+	else if($total>=525 && $total<629) { echo $ranking = "Grade: A"; }
+	else if($total>=420 && $total<524) { echo $ranking = "Grade: B+"; }
+	else if($total>=350 && $total<419) { echo $ranking = "Grade: B"; }
+	else if($total<=349) { echo $ranking = "C"; }
 	echo "</td>";
 	echo "<td colspan=\"3\">";
 	echo "<input type=\"hidden\" name=\"student_id\" value=".$student_id." />";
