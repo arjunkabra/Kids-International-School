@@ -64,7 +64,7 @@
 </tr>
 
 <tr>
-<td>Jyothi. S</td>
+<td>Uma</td>
 <td>B.Sc.,B.Ed</td>
 </tr>
 
@@ -89,11 +89,6 @@
 </tr>
 
 <tr>
-<td>Siddesh Kumar</td>
-<td>B.A., B.PEd</td>
-</tr>
-
-<tr>
 <td>Sudha</td>
 <td>B.A, B.Ed</td>
 </tr>
@@ -104,8 +99,8 @@
 </tr>
 
 <tr>
-<td>Mala</td>
-<td>B.Sc</td>
+<td>Gowri</td>
+<td>Montessori Training</td>
 </tr>
 
 <tr>
@@ -119,13 +114,13 @@
 </tr>
 
 <tr>
-<td>Radhamani</td>
-<td>B.A, B.Ed</td>
+<td>Chaitra</td>
+<td>B.Sc., B.Ed</td>
 </tr>
 
 <tr>
-<td>Yashoda</td>
-<td>B.A, D.Ed</td>
+<td>Gurunath</td>
+<td>M.A, B.Ed</td>
 </tr>
 
 <tr>
@@ -144,8 +139,8 @@
 </tr>
 
 <tr>
-<td>Kavya. B.M</td>
-<td>B.sc, B.Ed</td>
+<td>Nagalatha</td>
+<td>B.Sc., B.Ed</td>
 </tr>
 
 <tr>
@@ -154,18 +149,13 @@
 </tr>
 
 <tr>
-<td>Preetiprakash</td>
-<td>M.Sc</td>
+<td>Kavitha</td>
+<td>B.A., B.Ed.</td>
 </tr>
 
 <tr>
 <td>Swamy</td>
 <td>M.A, B.Ed</td>
-</tr>
-
-<tr>
-<td>Nizamuddin</td>
-<td>B.A, B.Ed</td>
 </tr>
 
 <tr>
