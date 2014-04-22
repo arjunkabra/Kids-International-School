@@ -50,7 +50,7 @@
 
 <tr>
 <td>Kanya Kumari (Principal)</td>
-<td>B.Sc., M.A.</td>
+<td>M.A.</td>
 </tr>
 
 <tr>
@@ -58,9 +58,34 @@
 <td>B.Sc.,B.Ed.</td>
 </tr>
 
+    <tr>
+        <td>Swamy</td>
+        <td>M.A, B.Ed</td>
+    </tr>
+
+    <tr>
+        <td>Vinutha</td>
+        <td>M.C.A</td>
+    </tr>
+
+    <tr>
+        <td>Jayashree</td>
+        <td>M.Sc</td>
+    </tr>
+
+    <tr>
+        <td>Deepa</td>
+        <td>M.Sc</td>
+    </tr>
+
+    <tr>
+        <td>Gurunath</td>
+        <td>M.A, B.Ed</td>
+    </tr>
+
 <tr>
 <td>Mamatha</td>
-<td>B.Sc.</td>
+<td>B.Com., Montessori Training</td>
 </tr>
 
 <tr>
@@ -109,18 +134,8 @@
 </tr>
 
 <tr>
-<td>Deepa</td>
-<td>M.Sc</td>
-</tr>
-
-<tr>
 <td>Chaitra</td>
 <td>B.Sc., B.Ed</td>
-</tr>
-
-<tr>
-<td>Gurunath</td>
-<td>M.A, B.Ed</td>
 </tr>
 
 <tr>
@@ -135,8 +150,13 @@
 
 <tr>
 <td>Virupakshaiah</td>
-<td>B.Sc, B.Ed</td>
+<td>B.Sc, B.Ed., L.L.B</td>
 </tr>
+
+    <tr>
+        <td>Mehaboob Unissa</td>
+        <td>B.Sc., B.Ed</td>
+    </tr>
 
 <tr>
 <td>Nagalatha</td>
@@ -153,20 +173,10 @@
 <td>B.A., B.Ed.</td>
 </tr>
 
-<tr>
-<td>Swamy</td>
-<td>M.A, B.Ed</td>
-</tr>
-
-<tr>
-<td>Vinutha</td>
-<td>M.C.A</td>
-</tr>
-
-<tr>
-<td>Jayashree</td>
-<td>M.Sc</td>
-</tr>
+    <tr>
+        <td>Madhu P</td>
+        <td>M.B.A, Administrative</td>
+    </tr>
 
 </table>
 </div>

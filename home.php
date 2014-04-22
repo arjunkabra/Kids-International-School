@@ -61,8 +61,8 @@
 				<dd><img src="images/campus.jpg" id="sliderImg" title="Our Campus" /></dd>
 				<dt>STUDENTS</dt>
 				<dd><img src="images/students.jpg" id="sliderImg" title="Students" /></dd>
-				<dt>Multi-Media Education</dt>
-				<dd><img src="images/multimedia-education.jpg" id="sliderImg" title="Multi-Media Education" /></dd>
+				<dt>Cultural Activities</dt>
+				<dd><img src="images/cultural-activities.jpg" id="sliderImg" title="Multi-Media Education" /></dd>
 				<dt>Computer Learing</dt>
 				<dd><img src="images/computer-learning.jpg" id="sliderImg" title="Computer Learing" /></dd>
 				<dt>Library</dt>
