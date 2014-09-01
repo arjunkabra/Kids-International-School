@@ -53,14 +53,24 @@
 <td>M.A.</td>
 </tr>
 
+    <tr>
+        <td>Gayathri.T.S (Assistant Head Mistress)</td>
+        <td>B.Sc.,B.Ed.</td>
+    </tr>
+
+    <tr>
+        <td>Lalitha (Montessori Coordinator)</td>
+        <td>P.U.C, D.Ed</td>
+    </tr>
+
 <tr>
 <td>Swetha</td>
 <td>B.Sc.,B.Ed.</td>
 </tr>
 
     <tr>
-        <td>Swamy</td>
-        <td>M.A, B.Ed</td>
+        <td>Kavitha</td>
+        <td>B.A, B.Ed</td>
     </tr>
 
     <tr>
@@ -69,18 +79,18 @@
     </tr>
 
     <tr>
-        <td>Jayashree</td>
+        <td>Vijaya Lakshmi</td>
         <td>M.Sc</td>
     </tr>
 
     <tr>
-        <td>Deepa</td>
-        <td>M.Sc</td>
+        <td>Prakash</td>
+        <td>Karate Teacher</td>
     </tr>
 
     <tr>
-        <td>Gurunath</td>
-        <td>M.A, B.Ed</td>
+        <td>Nethravathi</td>
+        <td>Dance Teacher</td>
     </tr>
 
 <tr>
@@ -96,11 +106,6 @@
 <tr>
 <td>Gangamma.T.R</td>
 <td>B.A.,B.Ed.</td>
-</tr>
-
-<tr>
-<td>Gayathri.T.S</td>
-<td>B.Sc.,B.Ed.</td>
 </tr>
 
 <tr>
@@ -124,12 +129,12 @@
 </tr>
 
 <tr>
-<td>Gowri</td>
+<td>Eashwari</td>
 <td>Montessori Training</td>
 </tr>
 
 <tr>
-<td>Shivaraju</td>
+<td>Cicilla David</td>
 <td>Drawing Teacher</td>
 </tr>
 
@@ -141,11 +146,6 @@
 <tr>
 <td>Pavitra</td>
 <td>B.A, B.Ed</td>
-</tr>
-
-<tr>
-<td>Lalitha</td>
-<td>P.U.C, D.Ed</td>
 </tr>
 
 <tr>
@@ -164,13 +164,13 @@
 </tr>
 
 <tr>
-<td>Pushpa. K.N</td>
-<td>M.T.T</td>
+<td>Pushpalatha N</td>
+<td>Physical Education</td>
 </tr>
 
 <tr>
-<td>Kavitha</td>
-<td>B.A., B.Ed.</td>
+<td>Naveen Kumari</td>
+<td>P.U.C., D.Ed.</td>
 </tr>
 
     <tr>
@@ -178,9 +178,39 @@
         <td>M.B.A, Administrative</td>
     </tr>
 
+    <tr>
+        <td>Pushpalatha C.S</td>
+        <td>P.U.C., D.Ed.</td>
+    </tr>
+
+    <tr>
+        <td>Yogsh K.L</td>
+        <td>B.A., B.Ed.</td>
+    </tr>
+
+    <tr>
+        <td>Nagaraj</td>
+        <td>B.E.</td>
+    </tr>
+
+    <tr>
+        <td>Chaithnya C.M</td>
+        <td>B.A., B.Ed.</td>
+    </tr>
+
+    <tr>
+        <td>Nandana V</td>
+        <td>B.A., B.Ed.</td>
+    </tr>
+
+    <tr>
+        <td>Padma</td>
+        <td>Hindi B.Ed.</td>
+    </tr>
+
 </table>
+    <div class="contentindexRight">
 </div>
-<div class="contentindexRight">
 <?php include('shared-resorces/sidebar.php'); ?>
 </div>
 </div>
