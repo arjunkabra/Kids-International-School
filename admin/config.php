@@ -3,10 +3,10 @@
 // ** MySQL settings - You can get this info from your web hosting service provider ** //
 
 /** The name of the database  */ 
-$DB_NAME = 'thetecha_kislive';
+$DB_NAME = 'thetecha_kis';
 
 /** MySQL database username */
-$DB_USER = 'thetecha_kislive';
+$DB_USER = 'thetecha_kis';
 
 /** MySQL database password */
 $DB_PASSWORD = 'password123@';
