@@ -18,7 +18,6 @@
   <li><a href="components">Components</a></li>
   </ul>
 </li>
-<li><a href="results">Results</a></li>
 <li><a href="gallery">Gallery</a></li>
 <li><a href="secretarymessage">Secretary's Message</a></li>
 <li><a href="contactus">Contact Us</a></li>
